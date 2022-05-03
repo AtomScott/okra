@@ -1,0 +1,5 @@
+prog: program-name
+description: A description for this schema
+numerical-arg:
+  type: int
+  default: 10
